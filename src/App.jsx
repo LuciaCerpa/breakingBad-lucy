@@ -12,7 +12,7 @@ function App() {
       <hr />
       
       <Routes>
-        <Route path="/home" element={<MainPage/>} />
+        <Route path="/" element={<MainPage/>} />
       </Routes>  
     </div>
   )
